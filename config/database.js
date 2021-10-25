@@ -1,6 +1,6 @@
 // config/database.js
 module.exports = {
 
-    'url' : 'your DB', 
+    'url' : 'Add DB string'', 
     'dbName': 'demo'
 };
